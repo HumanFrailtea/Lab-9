@@ -1,4 +1,18 @@
-﻿using System;
+﻿/// Homework No.__ Exercise No.__
+/// File Name:     Lab 10.sln
+/// @author:       Upendra Samaranayake
+/// Date:          November 9, 2020
+///
+/// Problem Statement: Define a class named Document that contains an instance variable of type string name text that stores any textual content for the document.
+///    
+/// Overall Plan (step-by-step, how you want the code to make it happen):
+/// 1. Create a method named ToString that returns the text field and also include a method to set this value.
+/// 2. Define a class for Email that is derived from the Document.
+/// 3. Implement setter and getter methods.
+/// 4. Define a class for File derived from Document and include a instance variable for the pathname.
+/// 5. Create 2 Email and Fileobjects in your Main method.
+/// 
+using System;
 
 namespace Lab_9
 {
